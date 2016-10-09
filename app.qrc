@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/app.qml</file>
+        <file>qml/Root.qml</file>
+        <file>qml/LocalView.qml</file>
+        <file>qml/SensorHub.qml</file>
+        <file>qml/kernel.js</file>
+        <file>qml/NearView.qml</file>
+        <file>qml/WorldView.qml</file>
+        <file>qml/Components/textures/home.png</file>
+        <file>qml/Components/Arrow.qml</file>
+        <file>qml/Components/FlyCameraController.qml</file>
+        <file>qml/Components/Grid.qml</file>
+        <file>qml/Components/LineGeometry.qml</file>
+        <file>qml/Components/ModelCamera.qml</file>
+        <file>qml/Components/ModelRenderSettings.qml</file>
+        <file>qml/Components/OcCameraController.qml</file>
+        <file>qml/Components/Phone.qml</file>
+    </qresource>
+</RCC>
